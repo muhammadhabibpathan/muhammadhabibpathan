@@ -1,4 +1,4 @@
-# Hello universitas ⚠️⚠️⚠️
+<h1 align="center"># Hello universitas ⚠️⚠️⚠️</h1>
 
 ![GitHub](https://github.com/muhammadhabibpathan/muhammadhabibpathan/blob/main/assets/demo.gif)
 
